@@ -29,7 +29,7 @@
 		"outlook"
 	],
 	"dependencies": {
-		"sax": "^1.4.4",
+		"sax": "^1.6.1",
 		"strtok3": "^10.3.4",
 		"win-guid": "^0.2.1"
 	},
