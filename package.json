@@ -30,7 +30,7 @@
 	],
 	"dependencies": {
 		"sax": "^1.4.4",
-		"strtok3": "^10.3.4",
+		"strtok3": "^10.7.0",
 		"win-guid": "^0.2.1"
 	},
 	"devDependencies": {
